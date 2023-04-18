@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="#">
-    <img width="55%" align="right" alt="Oluchi's github stats" src="https://github-readme-stats.vercel.app/api?username=Lucheee&show_icons=true&hide_border=true" /> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucheee&show_icons=true&include_all_commits=true&hide_border=true" alt="Luchee's GitHub stats" /> 
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -56,7 +56,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
-<br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucheee&langs_count=8&layout=compact&hide_border=true" alt="Lucheee's GitHub stats" /> 
+<br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucheee&langs_count=8&layout=compact&hide_border=true" alt="Luchee's GitHub stats" />
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
