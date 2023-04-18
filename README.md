@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Here are a few stuffs about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img  alt="Github" src="https://github.com/Lucheee/Lucheee/blob/main/images/image.gif"/>
+<img width="55%" align="right" alt="Github" src="https://github.com/Lucheee/Lucheee/blob/main/images/image.gif"/>
 
 - 🌱 I’m currently learning Django and React; 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities.
