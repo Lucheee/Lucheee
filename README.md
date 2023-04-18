@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Here are a few stuffs about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/Lucheee/Lucheee/blob/main/images/image.gif"/>
+<img  alt="Github" src="https://github.com/Lucheee/Lucheee/blob/main/images/image.gif"/>
 
 - 🌱 I’m currently learning Django and React; 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities.
@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="#">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucheee&show_icons=true&include_all_commits=true&hide_border=true" alt="Luchee's GitHub stats" /> 
+   <img width="55%" align="right"" src="https://github-readme-stats.vercel.app/api?username=lucheee&show_icons=true&include_all_commits=true&hide_border=true" alt="Luchee's GitHub stats" /> 
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
