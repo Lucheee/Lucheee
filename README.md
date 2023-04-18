@@ -56,7 +56,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
-<br> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucheee&langs_count=8&layout=compact&hide_border=true" alt="Luchee's GitHub stats" />
+<br> <img width="55% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucheee&langs_count=8&layout=compact&hide_border=true" alt="Luchee's GitHub stats" />
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
