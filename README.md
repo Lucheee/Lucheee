@@ -64,7 +64,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/lucheee/lucheee.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=lucheee.lucheee" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=lucheee.lucheee"/>
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/lucheee/lucheee.svg" />
 </p>
